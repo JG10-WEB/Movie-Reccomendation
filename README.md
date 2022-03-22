@@ -14,7 +14,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 # Note
 
-> #### Use this URL - https://the-movie-buff.herokuapp.com/ - in case if you see application error in the above mentioned URL
+> #### URL - https://moviebuffstreamlit.herokuapp.com/
 
 ## The Movie Cinema
 
